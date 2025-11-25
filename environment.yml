@@ -1,0 +1,8 @@
+name: docker2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - conda-lock
+  - pandas=2.3.3
+prefix: /home/ubu/miniforge3/envs/docker2
